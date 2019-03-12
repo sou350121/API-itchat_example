@@ -7,3 +7,4 @@ please give a star if you use it ! = ))
 
 welcome to amend or emend it if you think there better way to achieve. 
 
+link of _itchat_ : https://itchat.readthedocs.io/zh/latest/
