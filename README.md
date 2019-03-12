@@ -8,6 +8,6 @@ Some of them will provide you the information of your frineds list in WECHAT wit
 
 Please give a star if you use it ! = ))
 
-Welcome to amend or emend it if you think there better way to achieve. 
+Welcome to amend, emend it if you think there better way to achieve. 
 
 link of _itchat_ : https://itchat.readthedocs.io/zh/latest/
